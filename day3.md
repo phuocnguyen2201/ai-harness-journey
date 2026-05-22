@@ -24,3 +24,4 @@ Cold-start test: testing career-ops with questions below and how it response.
 
 Tried with one first question What is this system?, and giving a comprehensive guidance with many other questions as well. A short and concise describe about teh system, what is core abilities, how to use it and how the work process occur and how to getting started. So basically, the author did really good job at this. 
 
+ACID assessment: well-implemented as well, all the scanned job will be store in a md file, as well as applied, evaluated cv with job description.
