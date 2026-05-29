@@ -3,7 +3,7 @@ Everything is before it was built always have a feature lists, where is listed c
 Consequences, after every features are done and passed the verification then the work is done. On the other hands, agents don't understand the meaning of "done", they just fullfill the prompt you given them, and you'll have to decided is it done or not.
 
 ## Core 
- - Feature lists are harness primitives: **The scheduler**, **verifie**r, and **handoff** reporter all need to read the feature list to function.
+ - Feature lists are harness primitives: **The scheduler**, **verifier**, and **handoff** reporter all need to read the feature list to function.
     - **Scheduler**: Reads states, picks the next not_started feature.
     - **Verifier**: Executes verification commands, decides whether to allow state transitions.
     - **Handoff reporter**: Automatically generates session handoff summaries from the feature list.
